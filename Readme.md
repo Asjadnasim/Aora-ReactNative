@@ -13,3 +13,6 @@ Step 3: For the property main, use the expo-router/entry as its value in the pac
 Step 4: npx expo start -c 'for starting the expo app'\
 
 Step 5: use nativewind for css styles just like tailwind css https://www.nativewind.dev/quick-starts/expo
+
+Step 6: appwrite for using auth, db go to website ⭐ Appwrite: https://apwr.dev/JavaScriptMastery
+com.asjad.aora
