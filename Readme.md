@@ -16,3 +16,7 @@ Step 5: use nativewind for css styles just like tailwind css https://www.nativew
 
 Step 6: appwrite for using auth, db go to website ⭐ Appwrite: https://apwr.dev/JavaScriptMastery
 com.asjad.aora
+
+Step 7: npm install react-native-animatable for animations in react-native and also
+
+Step 8: npm install expo-av for playing audio video
