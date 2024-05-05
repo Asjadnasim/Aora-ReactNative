@@ -20,3 +20,5 @@ com.asjad.aora
 Step 7: npm install react-native-animatable for animations in react-native and also
 
 Step 8: npm install expo-av for playing audio video
+
+Step 9: npx expo install expo-image-picker
